@@ -4,8 +4,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/DiscordGameBot.git
-   cd DiscordGameBot
+   git clone https://github.com/BennyGaming635/PlayPal.git
+   cd PlayPal
    ```
 
 2. Install the required dependencies:
